@@ -5,4 +5,5 @@
         "type": "module",
       */
       As a side note, please also check exact order or place where this was added. 
-      
+3. Link to reference for ES6 Modules
+    https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export
