@@ -1,0 +1,17 @@
+{
+  "name": "typescript-concepts",
+  "version": "1.0.0",
+  "description": "Details of TypeScript Concepts with real life examples",
+  "main": "index.ts",
+  "scripts": {
+    "start": "nodemon Class.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen K Yadav",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "ts-lint": "^4.5.1",
+    "typescript": "^4.3.5"
+  }
+}
