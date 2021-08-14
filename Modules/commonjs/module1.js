@@ -14,7 +14,7 @@ Modules1Obj={
     param2:'This is second param from Obj of Module 1'
 }
 
-function ConstructorFun( cobj){
+function ConstructorFun(cobj){
     this.cobjCF = cobj;
     return `Constructor Function method : ${this.cobjCF}`;
 }

@@ -1,0 +1,8 @@
+1. NodeJs by default uses commonjs module for import and export
+2. NodeJs also supports es6 module for import and export
+    - This can be achieved by adding the below code in the package.json
+      /*
+        "type": "module",
+      */
+      As a side note, please also check exact order or place where this was added. 
+      
