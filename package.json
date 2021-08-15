@@ -2,10 +2,9 @@
   "name": "typescript-concepts",
   "version": "1.0.0",
   "description": "Details of TypeScript Concepts with real life examples",
-  "type": "module",
   "main": "index.ts",
   "scripts": {
-    "start": "nodemon Class.ts",
+    "start": "nodemon Class.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Praveen K Yadav",
